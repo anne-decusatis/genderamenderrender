@@ -10,7 +10,7 @@ public class Utils {
     /**
      * The options we're working with (for now)
      */
-    enum Gender {
+    public enum Gender {
         MALE,
         FEMALE,
         NONBINARY, // non-male or female genders go in this bucket for now
