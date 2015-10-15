@@ -1,0 +1,3 @@
+[submodule "genderamender"]
+	path = genderamender
+	url = https://github.com/anne-decusatis/genderamender.git
